@@ -1,15 +1,15 @@
-# ch10w10
+# Team Generator
 Object-Oriented Programming: Team Profile Generator
 
 Challenge Description:
 Build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
-User Story:
+# User Story:
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
-Acceptance Criteria:
+# Acceptance Criteria:
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
@@ -28,4 +28,15 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-video link: https://drive.google.com/file/d/1BBgLmNY8CFfkw7twD1dS4xAB-9nTDqew/view
+
+# usage
+open terminal
+type npm i for node modules
+run test
+run program
+answer questions to generate team
+
+
+
+# video link:
+ https://drive.google.com/file/d/1IUyrTxRLcwVDZDU3pEak_4EDxEAx3PU3/view
